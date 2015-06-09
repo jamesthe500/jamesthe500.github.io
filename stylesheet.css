@@ -1,0 +1,76 @@
+*{
+	font-family: 'Serif'
+}
+
+body {
+	background: url(PaperBG.png);
+
+	background-color: #FFF5FF;
+	margin: auto;
+	width: 900px;
+	
+}
+
+.container {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.nav li{
+	display: inline;
+	font-size: 15px;
+	padding: 5px;
+	color: #006B24;
+}
+
+.title .container p{
+	width: 650px;
+	margin-left: 60px;
+	margin-top: 10px;
+}
+
+a{
+	color: #479547;
+}
+
+.nav {
+	text-align: center;
+	margin-bottom: -10px;
+
+}
+
+.title h1{
+	font-size: 70px;
+	font-family: "Serif", Georgia, Serif;
+	text-align: center;
+	margin-top: 2px;
+}
+
+h2 {
+	font-size: 30px;
+	border-bottom: 1px solid #006B24;
+}
+
+p{
+	font-size: 20px;
+}
+
+li {
+	font-size: 18px;
+}
+
+.education .container .school {
+	margin-top: 18px;
+	margin-bottom: 25px;
+}
+
+.pro-exp .container .employer {
+	margin-top: 18px;
+	margin-bottom: 25px;
+}
+
+.related-skills ul{
+	margin-bottom: 50px;
+
+}
+
