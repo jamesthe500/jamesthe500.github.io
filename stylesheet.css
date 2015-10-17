@@ -1,0 +1,103 @@
+*{
+	font-family: 'Serif'
+
+}
+
+@font-face {
+	font-family: 'CrimsonText-Regular';
+	src: url(CrimsonText-Regular.ttf);
+}
+
+body {
+	background-color: #FFF5FF;
+	
+}
+.all {
+	background: #cccccc url(PaperBG.png) top left repeat;
+	margin: 20px auto 20px auto;
+	width: 980px;
+	padding: 30px 45px 30px 45px;
+	border: 2px solid #cccccc;
+	border-radius: 4px;
+	box-shadow: 4px 6px 15px #aaaaaa;
+	
+}
+
+.container {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.nav li {
+	display: inline;
+	font-size: 16px;
+	padding: 5px;
+	color: #006B24;
+}
+
+
+.title .container p{
+	width: 650px;
+	margin: 20px auto 5px auto;
+	margin-top: 20;
+
+}
+
+a{
+	color: #479547;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FF00FF;
+	transition: color 0.4s ease-in-out;
+}
+
+.nav {
+	text-align: center;
+	margin-bottom: -10px;
+
+}
+
+.title h1{
+	font-size: 70px;
+	font-family: 'CrimsonText-Regular', 'Serif', Georgia;
+	text-align: center;
+	margin-top: 12px;
+}
+
+h2 {
+	font-size: 30px;
+	border-bottom: 1px solid #006B24;
+}
+
+p{
+	font-size: 20px;
+}
+
+li {
+	font-size: 18px;
+}
+
+.education .container .school {
+	margin-top: 18px;
+	margin-bottom: 25px;
+}
+
+.pro-exp .container .employer {
+	margin-top: 18px;
+	margin-bottom: 25px;
+}
+
+.skills ul{
+	margin-bottom: 50px;
+}
+
+.colA,.colB,.colC {
+    font-size: 20px;
+}
+
+.colC {
+    text-align: right;
+}
+
