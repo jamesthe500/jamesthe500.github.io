@@ -7,7 +7,8 @@ var skillsLists = {
             "Git/GitHub",
             "jQuery",
             "Bootstrap",
-            "Node.js"
+            "Node.js",
+            "PHP"
         ],
         "colB" : [
             "GruntJS",
