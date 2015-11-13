@@ -35,12 +35,15 @@ body {
 	color: #006B24;
 }
 
-
 .title .container p{
 	width: 650px;
 	margin: 20px auto 5px auto;
 	margin-top: 20;
+}
 
+#introParagraph {
+    text-align: center;
+    width: 660px;
 }
 
 a{
