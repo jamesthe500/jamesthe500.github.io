@@ -2,29 +2,31 @@
 ////// As this list changes, make certain that the length of A >= B >= C  ///////
 var skillsLists = {
         "colA" : [
-            "HTML/CSS",
-            "Javascript",
+            "HTML5/CSS3",
+            "SASS",
+            "Jade",
+            "JavaScript",
             "Git/GitHub",
-            "jQuery",
             "Bootstrap",
-            "Node.js",
             "PHP"
         ],
         "colB" : [
             "GruntJS",
             "MongoDB",
             "MySQL",
-            "PostgreSQL",
             "APIs",
-            "Express.js"
+            "Express.js",
+            "Node.js",
+            "D3"
         ],
         "colC" : [
-            "Jade",
+            "jQuery",
             "AngularJS",
-            "Angular Material",
-            "D3",
-            "Photoshop",
-            "Illustrator"
+            "JSON",
+            "AJAX",
+            "Adobe Illustrator",
+            "Adobe Photoshop",
+            "Final Cut Pro"
         ]
     };
 
