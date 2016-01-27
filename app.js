@@ -20,8 +20,8 @@ var skillsLists = {
             "D3"
         ],
         "colC" : [
-            "jQuery",
             "AngularJS",
+            "jQuery",
             "JSON",
             "AJAX",
             "Adobe Illustrator",
@@ -29,8 +29,6 @@ var skillsLists = {
             "Final Cut Pro"
         ]
     };
-
-// todo put photoshop back in
 
 $(document).ready(function(){
 
