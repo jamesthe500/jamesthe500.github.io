@@ -3,21 +3,21 @@
 var skillsLists = {
         "colA" : [
             "HTML5/CSS3",
-            "SASS",
+            "Bootstrap",
             "Jade",
             "JavaScript",
-            "Git/GitHub",
-            "Bootstrap",
-            "PHP"
+            "C++",
+            "Java",
+            "Git/GitHub"
         ],
         "colB" : [
             "GruntJS",
-            "MongoDB",
             "MySQL",
+            "MongoDB",
             "APIs",
-            "Express.js",
             "Node.js",
-            "D3"
+            "D3",
+            "MS Office Suite"
         ],
         "colC" : [
             "AngularJS",
@@ -26,7 +26,7 @@ var skillsLists = {
             "AJAX",
             "Adobe Illustrator",
             "Adobe Photoshop",
-            "Final Cut Pro"
+            "Final Cut Pro X"
         ]
     };
 
