@@ -1,6 +1,5 @@
-*{
+* {
 	font-family: 'Serif'
-
 }
 
 @font-face {
@@ -9,10 +8,10 @@
 }
 
 body {
-	background-color: #FFF5FF;
-	
+	background-color: #FFF5FF;	
 }
-.all {
+
+.thePaper {
 	background: #cccccc url(PaperBG.png) top left repeat;
 	margin: 20px auto 20px auto;
 	width: 980px;
@@ -20,7 +19,6 @@ body {
 	border: 2px solid #cccccc;
 	border-radius: 4px;
 	box-shadow: 4px 6px 15px #aaaaaa;
-	
 }
 
 .container {
@@ -28,7 +26,16 @@ body {
 	margin: 0 auto;
 }
 
-.nav li {
+nav {
+	text-align: center;
+	margin-bottom: -10px;
+}
+
+nav ul {
+	padding: 0;
+}
+
+nav li {
 	display: inline;
 	font-size: 16px;
 	padding: 5px;
@@ -54,12 +61,6 @@ a:hover {
 	text-decoration: none;
 	color: #FF00FF;
 	transition: color 0.4s ease-in-out;
-}
-
-.nav {
-	text-align: center;
-	margin-bottom: -10px;
-
 }
 
 .title h1{
