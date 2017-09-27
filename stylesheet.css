@@ -90,18 +90,14 @@ li {
 
 .pro-exp .container .employer {
 	margin-top: 18px;
-	margin-bottom: 25px;
+	margin-bottom: 40px;
 }
 
 .skills ul{
 	margin-bottom: 50px;
 }
 
-.colA,.colB,.colC {
-    font-size: 20px;
-}
-
-.colC {
-    text-align: right;
+.skill {
+    font-size: 19px;
 }
 
